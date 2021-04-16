@@ -1,7 +1,7 @@
 ## Package Dependency: <br/>
 <i>Microsoft.Extensions.Hosting.WindowsServices</i>
 
-## Cara Membuat Service<br/>
+## Cara Menjalankan Worker Service di Windows Service<br/>
 <ol>
 <li>Masuk CMD (Administrator)</li>
 <li>sc create DemoWorkerService binPath=C:\blabla\DemoWorkerService.exe</li>
