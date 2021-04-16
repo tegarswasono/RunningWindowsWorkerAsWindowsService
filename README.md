@@ -9,4 +9,5 @@
 </ol>
 
 ## Source <br/>
-https://sergeydotnet.com/create-net-core-worker-service/
+https://sergeydotnet.com/create-net-core-worker-service/ <br/>
+https://stackoverflow.com/questions/59636097/c-sharp-worker-service-vs-windows-service#:~:text=Both%20are%20real%20services.,and%20stops%20with%20the%20application.
